@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://wonderfulengineering.com/wp-content/uploads/2014/05/airplane-wallpaper-2.jpg);
+    
+    text-align: center;
+}
+
+.navbar {
+    background-color: cadetblue;
+    
+    text-align: center;
+    
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
